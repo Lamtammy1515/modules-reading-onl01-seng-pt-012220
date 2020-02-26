@@ -9,4 +9,6 @@ class Dancer
   def initialize(name)
     @name = name
   end
+endclass Dancer
+  extend MetaDancing
 end
